@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mekanism:block_refined_glowstone"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mekanism:ingot_refined_glowstone"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/refined_glowstone"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mekanism:block_refined_glowstone"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mekanism:ingot_refined_glowstone"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

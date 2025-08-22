@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "cobblemon:moon_stone_ore"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "cobblemon:moon_stone"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/moon_stone"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "cobblemon:moon_stone_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "cobblemon:moon_stone"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

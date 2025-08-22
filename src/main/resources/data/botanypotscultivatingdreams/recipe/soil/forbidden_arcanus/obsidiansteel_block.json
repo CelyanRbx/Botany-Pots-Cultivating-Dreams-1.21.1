@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "forbidden_arcanus:obsidiansteel_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "forbidden_arcanus:obsidiansteel_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "forbidden_arcanus:obsidiansteel_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

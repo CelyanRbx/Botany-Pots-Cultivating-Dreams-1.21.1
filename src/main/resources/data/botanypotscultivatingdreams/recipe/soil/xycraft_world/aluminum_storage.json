@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "xycraft_world:aluminum_storage"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "xycraft_world:aluminum_storage"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "xycraft_world:aluminum_storage"
+    }
+  },
+  "growth_modifier": 0.0
+}

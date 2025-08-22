@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "alltheores:silver_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:silver_block",
+      "required": false
+    },
+    {
+      "id": "iceandfire:silver_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_silver",
+      "required": false
+    },
+    {
+      "id": "pixelmon:silver_block",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mekanism:block_bronze"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_bronze"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mekanism:block_bronze"
+    }
+  },
+  "growth_modifier": 0.0
+}

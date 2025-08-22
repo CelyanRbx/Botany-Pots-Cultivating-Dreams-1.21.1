@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "xycraft_world:xychorium_ore_stone_green"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "xycraft_world:xychorium_gem_green"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/xychorium_green"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "xycraft_world:xychorium_ore_stone_green"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "xycraft_world:xychorium_gem_green"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

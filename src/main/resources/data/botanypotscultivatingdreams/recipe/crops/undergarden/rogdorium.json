@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "undergarden:deadrock_rogdorium_ore"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "undergarden:rogdorium"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/rogdorium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "undergarden:deadrock_rogdorium_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "undergarden:rogdorium"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

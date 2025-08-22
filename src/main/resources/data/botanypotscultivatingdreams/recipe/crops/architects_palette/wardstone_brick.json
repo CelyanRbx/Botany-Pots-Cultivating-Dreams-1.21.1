@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "architects_palette:wardstone"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "architects_palette:wardstone_brick"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/wardstone_brick"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "architects_palette:wardstone"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "architects_palette:wardstone_brick"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

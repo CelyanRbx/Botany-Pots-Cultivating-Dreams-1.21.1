@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mekanism:block_salt"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mekanism:salt"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/salt"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mekanism:block_salt"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mekanism:salt"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "alltheores:tin_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:tin_block",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_tin",
+      "required": false
+    }
+  ]
+}

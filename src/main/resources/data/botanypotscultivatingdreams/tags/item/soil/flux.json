@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "fluxnetworks:flux_block",
+      "required": false
+    }
+  ]
+}

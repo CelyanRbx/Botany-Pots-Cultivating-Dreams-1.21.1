@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "alltheores:nickel_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:nickel_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_nickel",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "alltheores:fluorite_block",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_fluorite",
+      "required": false
+    }
+  ]
+}

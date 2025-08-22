@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "silentgear:blaze_gold_block",
+      "required": false
+    },
+    {
+      "id": "justdirethings:blazegold_block",
+      "required": false
+    }
+  ]
+}

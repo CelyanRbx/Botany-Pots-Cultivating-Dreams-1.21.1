@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "alltheores:sulfur_ore"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "alltheores:sulfur"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/sulfur"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "alltheores:sulfur_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "alltheores:sulfur"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

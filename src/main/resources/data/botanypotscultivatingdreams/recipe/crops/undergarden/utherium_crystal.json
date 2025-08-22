@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "undergarden:depthrock_utherium_ore"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "undergarden:utherium_crystal"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/utherium_crystal"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "undergarden:depthrock_utherium_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "undergarden:utherium_crystal"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

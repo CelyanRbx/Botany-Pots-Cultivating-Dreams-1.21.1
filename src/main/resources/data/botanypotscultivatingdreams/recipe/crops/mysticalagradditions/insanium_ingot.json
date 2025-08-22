@@ -1,0 +1,51 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mysticalagradditions:insanium_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mysticalagradditions:insanium_ingot"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/insanium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mysticalagradditions:insanium_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mysticalagradditions:insanium_ingot"
+          },
+          "chance": 1.0
+        },
+        {
+          "result": {
+            "id": "mysticalagradditions:insanium_gemstone"
+          },
+          "chance": 1.0
+        },
+        {
+          "result": {
+            "id": "mysticalagradditions:insanium_essence"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

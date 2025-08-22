@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "alltheores:salt_block",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_salt",
+      "required": false
+    }
+  ]
+}

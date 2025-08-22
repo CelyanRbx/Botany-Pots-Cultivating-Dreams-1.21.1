@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "extendedcrafting:the_ultimate_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "extendedcrafting:the_ultimate_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "extendedcrafting:the_ultimate_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

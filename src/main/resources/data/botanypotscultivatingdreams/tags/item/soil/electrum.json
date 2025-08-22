@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "alltheores:electrum_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_electrum",
+      "required": false
+    },
+    {
+      "id": "createaddition:electrum_block",
+      "required": false
+    }
+  ]
+}

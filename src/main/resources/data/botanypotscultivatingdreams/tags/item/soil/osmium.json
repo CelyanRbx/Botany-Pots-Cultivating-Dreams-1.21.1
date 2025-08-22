@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "alltheores:osmium_block",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_osmium",
+      "required": false
+    }
+  ]
+}

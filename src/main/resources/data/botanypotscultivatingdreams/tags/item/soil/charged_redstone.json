@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "appflux:charged_redstone_block",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "silentgear:azure_electrum_block",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "gtceu:cinnabar_block",
+      "required": false
+    },
+    {
+      "id": "alltheores:cinnabar_block",
+      "required": false
+    }
+  ]
+}

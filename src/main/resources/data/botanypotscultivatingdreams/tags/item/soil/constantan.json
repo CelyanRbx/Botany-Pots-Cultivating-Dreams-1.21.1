@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "alltheores:constantan_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_constantan",
+      "required": false
+    }
+  ]
+}

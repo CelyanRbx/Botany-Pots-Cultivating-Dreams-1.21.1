@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "extendedcrafting:enhanced_redstone_ingot_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "extendedcrafting:enhanced_redstone_ingot_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "extendedcrafting:enhanced_redstone_ingot_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

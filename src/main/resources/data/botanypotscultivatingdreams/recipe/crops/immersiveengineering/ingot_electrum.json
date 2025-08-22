@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "immersiveengineering:storage_electrum"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "immersiveengineering:ingot_electrum"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/electrum"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "immersiveengineering:storage_electrum"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "immersiveengineering:ingot_electrum"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

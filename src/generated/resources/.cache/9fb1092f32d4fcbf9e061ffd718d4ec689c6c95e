@@ -1,0 +1,5 @@
+// 1.21.1	2025-08-19T19:26:34.2046046	Recipes
+dd077fa59145ca3c4c7ded4dc6be4be18f1f76b7 data/appflux/advancement/recipes/misc/harden_insulating_resin.json
+32501fdf634f2376f6b8ef097319f05642ee2a47 data/appflux/recipe/harden_insulating_resin.json
+6f78e91beebc1aa6bd01beecff291f985e5d12d7 data/botanypotscultivatingdreams/advancement/recipes/misc/harden_insulating_resin_block.json
+42a0b654508289b09c0a33b0a299c2ba2e5f2278 data/botanypotscultivatingdreams/recipe/harden_insulating_resin_block.json

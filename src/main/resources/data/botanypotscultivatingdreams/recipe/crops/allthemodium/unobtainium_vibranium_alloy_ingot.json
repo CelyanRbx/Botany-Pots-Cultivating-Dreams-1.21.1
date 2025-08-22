@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "allthemodium:unobtainium_vibranium_alloy_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "allthemodium:unobtainium_vibranium_alloy_ingot"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/unobtainium_vibranium_alloy"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "allthemodium:unobtainium_vibranium_alloy_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "allthemodium:unobtainium_vibranium_alloy_ingot"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

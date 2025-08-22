@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "botanypotscultivatingdreams:harden_insulating_resin_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "botanypotscultivatingdreams:blocks/harden_insulating_resin_block"
+}

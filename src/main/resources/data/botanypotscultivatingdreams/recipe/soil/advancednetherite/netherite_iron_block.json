@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "advancednetherite:netherite_iron_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "advancednetherite:netherite_iron_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "advancednetherite:netherite_iron_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

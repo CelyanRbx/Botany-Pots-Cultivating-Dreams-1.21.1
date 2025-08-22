@@ -1,0 +1,51 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mysticalagriculture:inferium_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mysticalagriculture:inferium_ingot"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/inferium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mysticalagriculture:inferium_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mysticalagriculture:inferium_essence"
+          },
+          "chance": 1.0
+        },
+        {
+          "result": {
+            "id": "mysticalagriculture:inferium_gemstone"
+          },
+          "chance": 1.0
+        },
+        {
+          "result": {
+            "id": "mysticalagriculture:inferium_ingot"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

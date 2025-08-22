@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "xycraft_world:aluminum_ore_stone"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "xycraft_world:aluminum_ingot"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/aluminum"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "xycraft_world:aluminum_ore_stone"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "xycraft_world:aluminum_ingot"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

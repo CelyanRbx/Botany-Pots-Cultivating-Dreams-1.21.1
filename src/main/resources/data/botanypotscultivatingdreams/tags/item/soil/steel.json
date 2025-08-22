@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "alltheores:steel_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_steel",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_steel",
+      "required": false
+    },
+    {
+      "id": "samurai_dynasty:steel_block",
+      "required": false
+    }
+  ]
+}

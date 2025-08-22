@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "xycraft_world:xychorium_storage_light"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "xycraft_world:xychorium_storage_light"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "xycraft_world:xychorium_storage_light"
+    }
+  },
+  "growth_modifier": 0.0
+}

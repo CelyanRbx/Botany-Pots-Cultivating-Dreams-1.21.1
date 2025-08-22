@@ -1,0 +1,51 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mysticalagriculture:tertium_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mysticalagriculture:tertium_ingot"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/tertium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mysticalagriculture:tertium_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mysticalagriculture:tertium_essence"
+          },
+          "chance": 1.0
+        },
+        {
+          "result": {
+            "id": "mysticalagriculture:tertium_gemstone"
+          },
+          "chance": 1.0
+        },
+        {
+          "result": {
+            "id": "mysticalagriculture:tertium_ingot"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

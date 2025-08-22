@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mekanism:block_refined_obsidian"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_refined_obsidian"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mekanism:block_refined_obsidian"
+    }
+  },
+  "growth_modifier": 0.0
+}

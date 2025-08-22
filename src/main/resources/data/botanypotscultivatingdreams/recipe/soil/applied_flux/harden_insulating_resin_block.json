@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotscultivatingdreams:harden_insulating_resin_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botanypotscultivatingdreams:harden_insulating_resin_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "botanypotscultivatingdreams:harden_insulating_resin_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

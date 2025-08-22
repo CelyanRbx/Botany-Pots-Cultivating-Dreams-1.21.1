@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "extendedae:silicon_block",
+      "required": false
+    },
+    {
+      "id": "pixelmon:silicon_block",
+      "required": false
+    }
+  ]
+}

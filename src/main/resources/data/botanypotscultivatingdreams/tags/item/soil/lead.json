@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "alltheores:lead_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:lead_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_lead",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_lead",
+      "required": false
+    }
+  ]
+}

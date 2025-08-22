@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "extendedcrafting:redstone_ingot_block",
+      "required": false
+    }
+  ]
+}

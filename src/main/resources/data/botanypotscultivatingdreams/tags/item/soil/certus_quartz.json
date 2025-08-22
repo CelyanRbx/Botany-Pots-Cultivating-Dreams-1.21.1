@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "ae2:quartz_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:certus_quartz_block",
+      "required": false
+    }
+  ]
+}

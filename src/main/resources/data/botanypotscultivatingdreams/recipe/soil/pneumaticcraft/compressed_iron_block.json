@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "pneumaticcraft:compressed_iron_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pneumaticcraft:compressed_iron_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "pneumaticcraft:compressed_iron_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "immersiveengineering:storage_electrum"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_electrum"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "immersiveengineering:storage_electrum"
+    }
+  },
+  "growth_modifier": 0.0
+}

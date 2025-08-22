@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "architects_palette:algal_bricks"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "architects_palette:algal_bricks"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "architects_palette:algal_bricks"
+    }
+  },
+  "growth_modifier": 0.0
+}

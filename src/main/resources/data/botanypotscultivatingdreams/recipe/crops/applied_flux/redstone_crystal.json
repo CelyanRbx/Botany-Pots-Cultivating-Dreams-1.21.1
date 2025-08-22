@@ -9,10 +9,10 @@
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "appflux:charged_redstone"
+    "item": "appflux:redstone_crystal"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/charged_redstone"
+    "tag": "botanypotscultivatingdreams:soil/redstone_crystal"
   },
   "grow_time": 1200,
   "display": {
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "appflux:charged_redstone"
+            "id": "appflux:redstone_crystal"
           },
           "chance": 1.0
         }

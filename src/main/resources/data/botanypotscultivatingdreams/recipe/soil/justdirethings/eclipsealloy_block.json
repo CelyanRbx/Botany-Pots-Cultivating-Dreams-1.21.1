@@ -3,18 +3,18 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "justdirethings:eclipse_alloy_block"
+        "justdirethings:eclipsealloy_block"
       ]
     }
   ],
   "type": "botanypots:soil",
   "input": {
-    "item": "justdirethings:eclipse_alloy_block"
+    "item": "justdirethings:eclipsealloy_block"
   },
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "justdirethings:eclipse_alloy_block"
+      "block": "justdirethings:eclipsealloy_block"
     }
   },
   "growth_modifier": 0.0

@@ -3,22 +3,22 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "justdirethings:eclipse_alloy_block"
+        "justdirethings:eclipsealloy_block"
       ]
     }
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "justdirethings:eclipse_alloy_ingot"
+    "item": "justdirethings:eclipsealloy_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/eclipse_alloy"
+    "tag": "botanypotscultivatingdreams:soil/eclipsealloy"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "justdirethings:eclipse_alloy_block"
+      "block": "justdirethings:eclipsealloy_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "justdirethings:eclipse_alloy_ingot"
+            "id": "justdirethings:eclipsealloy_ingot"
           },
           "chance": 1.0
         }

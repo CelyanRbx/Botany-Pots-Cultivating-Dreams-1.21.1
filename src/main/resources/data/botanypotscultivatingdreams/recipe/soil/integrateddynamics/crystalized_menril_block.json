@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "integrateddynamics:crystalized_menril_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "integrateddynamics:crystalized_menril_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "integrateddynamics:crystalized_menril_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

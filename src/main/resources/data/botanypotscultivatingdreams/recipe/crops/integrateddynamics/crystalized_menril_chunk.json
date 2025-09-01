@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "inetgrateddynamics:menril_log_filled"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "inetgrateddynamics:crystalized_menril_chunk"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/menril"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "inetgrateddynamics:menril_log_filled"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "inetgrateddynamics:crystalized_menril_chunk"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

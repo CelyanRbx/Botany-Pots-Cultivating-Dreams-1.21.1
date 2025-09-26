@@ -11,6 +11,10 @@
     {
       "id": "createaddition:electrum_block",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:electrum_block",
+      "required": false
     }
   ]
 }

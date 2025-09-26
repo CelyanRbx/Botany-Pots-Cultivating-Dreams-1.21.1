@@ -11,6 +11,26 @@
     {
       "id": "mekanism:block_uranium",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:he_uranium_block",
+      "required": false
+    },
+    {
+      "id": "modern_industrialization:le_uranium_block",
+      "required": false
+    },
+    {
+      "id": "modern_industrialization:uranium_235_block",
+      "required": false
+    },
+    {
+      "id": "modern_industrialization:uranium_238_block",
+      "required": false
+    },
+    {
+      "id": "modern_industrialization:uranium_block",
+      "required": false
     }
   ]
 }

@@ -19,6 +19,10 @@
     {
       "id": "pixelmon:silver_block",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:silver_block",
+      "required": false
     }
   ]
 }

@@ -15,6 +15,10 @@
     {
       "id": "xycraft_world:aluminum_storage",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:aluminum_block",
+      "required": false
     }
   ]
 }

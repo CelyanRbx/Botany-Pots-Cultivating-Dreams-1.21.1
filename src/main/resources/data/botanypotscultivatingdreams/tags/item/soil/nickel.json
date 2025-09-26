@@ -11,6 +11,10 @@
     {
       "id": "immersiveengineering:storage_nickel",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:nickel_block",
+      "required": false
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "modern_industrialization:he_uranium_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "modern_industrialization:he_uranium_ingot"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/uranium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "modern_industrialization:he_uranium_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "modern_industrialization:he_uranium_ingot"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

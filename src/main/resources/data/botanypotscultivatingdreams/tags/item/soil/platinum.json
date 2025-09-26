@@ -11,6 +11,10 @@
     {
       "id": "pixelmon:platinum_block",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:platinum_block",
+      "required": false
     }
   ]
 }

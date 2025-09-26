@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "gtceu:plutonium_239_block",
+      "required": false
+    },
+    {
+      "id": "modern_industrialization:plutonium_block",
+      "required": false
+    }
+  ]
+}

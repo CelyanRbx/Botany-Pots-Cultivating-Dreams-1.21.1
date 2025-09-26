@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "silentgems:deepslate_alexandrite_ore"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "silentgems:alexandrite"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/alexandrite"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "silentgems:deepslate_alexandrite_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "silentgems:alexandrite"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

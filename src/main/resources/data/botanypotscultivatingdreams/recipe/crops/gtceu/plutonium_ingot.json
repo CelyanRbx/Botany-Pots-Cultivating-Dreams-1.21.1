@@ -12,7 +12,7 @@
     "item": "gtceu:plutonium_239_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/plutonium_239"
+    "tag": "botanypotscultivatingdreams:soil/plutonium"
   },
   "grow_time": 1200,
   "display": {

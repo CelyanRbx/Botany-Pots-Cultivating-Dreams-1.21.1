@@ -3,6 +3,10 @@
     {
       "id": "alltheores:invar_block",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:invar_block",
+      "required": false
     }
   ]
 }

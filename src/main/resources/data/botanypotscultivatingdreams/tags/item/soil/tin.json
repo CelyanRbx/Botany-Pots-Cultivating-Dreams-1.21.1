@@ -11,6 +11,10 @@
     {
       "id": "mekanism:block_tin",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:tin_block",
+      "required": false
     }
   ]
 }

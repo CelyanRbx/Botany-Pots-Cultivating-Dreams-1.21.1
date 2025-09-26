@@ -3,6 +3,10 @@
     {
       "id": "gtceu:beryllium_block",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:beryllium_block",
+      "required": false
     }
   ]
 }

@@ -7,6 +7,10 @@
     {
       "id": "mekanism:block_bronze",
       "required": false
+    },
+    {
+      "id": "modern_industrialization:bronze_block",
+      "required": false
     }
   ]
 }

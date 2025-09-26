@@ -86,16 +86,16 @@ configurations {
 }
 
 dependencies {
-    implementation "curse.maven:jei-238222:5846880"
+    implementation "curse.maven:jei-238222:7034701"
 
-    implementation "curse.maven:bookshelf-228525:6717571"
-    implementation "curse.maven:prickle-1023259:6546240"
-    implementation "curse.maven:botany-pots-353928:6895762"
+    implementation "curse.maven:bookshelf-228525:6951065"
+    implementation "curse.maven:prickle-1023259:6961457"
+    implementation "curse.maven:botany-pots-353928:6961242"
 
     implementation "curse.maven:applied-flux-965012:6649565"
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:guideme-1173950:6812025"
-    implementation "curse.maven:applied-energistics-2-223794:6890346"
+    implementation "curse.maven:applied-energistics-2-223794:7027323"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {

@@ -3,6 +3,10 @@
     {
       "id": "gtceu:topaz_block",
       "required": false
+    },
+    {
+      "id": "silentgems:topaz_block",
+      "required": false
     }
   ]
 }

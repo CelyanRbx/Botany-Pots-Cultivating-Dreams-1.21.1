@@ -3,22 +3,22 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "silentgems:deepslate_chaos_ore"
+        "silentgems:deepslate_black_diamond_ore"
       ]
     }
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "silentgems:chaos_essence"
+    "item": "silentgems:black_diamond"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/chaos_essence"
+    "tag": "botanypotscultivatingdreams:soil/black_diamond"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "silentgems:deepslate_chaos_ore"
+      "block": "silentgems:deepslate_black_diamond_ore"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "silentgems:chaos_essence"
+            "id": "silentgems:black_diamond"
           },
           "chance": 1.0
         }

@@ -3,6 +3,10 @@
     {
       "id": "alltheores:peridot_block",
       "required": false
+    },
+    {
+      "id": "silentgems:peridot_block",
+      "required": false
     }
   ]
 }

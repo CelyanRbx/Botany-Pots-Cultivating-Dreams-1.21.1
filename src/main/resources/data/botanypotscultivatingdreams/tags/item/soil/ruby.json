@@ -15,6 +15,10 @@
     {
       "id": "pixelmon:sapphire_block",
       "required": false
+    },
+    {
+      "id": "silentgems:ruby_block",
+      "required": false
     }
   ]
 }

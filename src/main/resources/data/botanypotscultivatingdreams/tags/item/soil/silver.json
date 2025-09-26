@@ -23,6 +23,10 @@
     {
       "id": "modern_industrialization:silver_block",
       "required": false
+    },
+    {
+      "id": "silentgems:silver_block",
+      "required": false
     }
   ]
 }

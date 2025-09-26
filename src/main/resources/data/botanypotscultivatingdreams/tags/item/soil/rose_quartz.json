@@ -3,6 +3,10 @@
     {
       "id": "create:rose_quartz_block",
       "required": false
+    },
+    {
+      "id": "silentgems:rose_quartz_block",
+      "required": false
     }
   ]
 }

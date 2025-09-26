@@ -3,6 +3,10 @@
     {
       "id": "gtceu:opal_block",
       "required": false
+    },
+    {
+      "id": "silentgems:opal_block",
+      "required": false
     }
   ]
 }

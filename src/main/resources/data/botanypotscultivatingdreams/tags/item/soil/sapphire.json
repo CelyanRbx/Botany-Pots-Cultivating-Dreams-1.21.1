@@ -11,7 +11,10 @@
     {
       "id": "iceandfire:sapphire_block",
       "required": false
+    },
+    {
+      "id": "silentgems:sapphire_block",
+      "required": false
     }
-
   ]
 }

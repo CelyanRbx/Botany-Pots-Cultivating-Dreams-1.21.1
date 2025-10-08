@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "sgearmetalworks:uru_metal_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "sgearmetalworks:uru_metal_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "sgearmetalworks:uru_metal_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

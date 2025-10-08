@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "bigreactors:magentite_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "bigreactors:magentite_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "bigreactors:magentite_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

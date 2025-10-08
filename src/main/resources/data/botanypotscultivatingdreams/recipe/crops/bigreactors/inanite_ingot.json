@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "bigreactors:inanite_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "bigreactors:inanite_ingot"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/inanite"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "bigreactors:inanite_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "bigreactors:inanite_ingot"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

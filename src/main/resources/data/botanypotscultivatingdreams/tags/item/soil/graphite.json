@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "bigreactors:graphite_block",
+      "required": false
+    }
+  ]
+}

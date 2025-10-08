@@ -12,7 +12,7 @@
     "item": "modern_industrialization:titanium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatitaniumgdreams:soil/titanium"
+    "tag": "botanypotscultivatingdreams:soil/titanium"
   },
   "grow_time": 1200,
   "display": {

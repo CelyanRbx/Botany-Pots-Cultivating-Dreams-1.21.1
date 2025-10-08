@@ -12,7 +12,7 @@
     "item": "evilcraft:dark_gem"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/dark_gem"
+    "tag": "botanypotscultivatingdreams:soil/dark"
   },
   "grow_time": 1200,
   "display": {

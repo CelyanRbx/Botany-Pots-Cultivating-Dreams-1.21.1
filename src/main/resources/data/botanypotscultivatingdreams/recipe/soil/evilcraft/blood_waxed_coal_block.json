@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evilcraft:blood_waxed_coal_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "evilcraft:blood_waxed_coal_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evilcraft:blood_waxed_coal_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

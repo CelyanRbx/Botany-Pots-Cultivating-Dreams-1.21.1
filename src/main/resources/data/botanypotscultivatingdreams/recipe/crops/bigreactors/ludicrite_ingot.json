@@ -18,7 +18,7 @@
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "bigreactors:ludicrite_ingot_block"
+      "block": "bigreactors:ludicrite_block"
     }
   },
   "drops": [

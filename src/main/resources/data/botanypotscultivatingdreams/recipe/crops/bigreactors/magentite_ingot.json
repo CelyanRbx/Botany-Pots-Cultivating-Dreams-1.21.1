@@ -18,7 +18,7 @@
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "bigreactors:magentite_ingot_block"
+      "block": "bigreactors:magentite_block"
     }
   },
   "drops": [

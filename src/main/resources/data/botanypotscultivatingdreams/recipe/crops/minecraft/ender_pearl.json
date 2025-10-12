@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "allthetweaks:ender_pearl_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "minecraft:ender_pearl"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/ender_pearl"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "allthetweaks:ender_pearl_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "minecraft:ender_pearl"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

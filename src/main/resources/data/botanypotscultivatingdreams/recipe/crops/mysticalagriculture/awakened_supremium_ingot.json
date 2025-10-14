@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:awakened_supremium_essence"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:awakened_supremium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:awakened_supremium_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

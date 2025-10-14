@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:inferium_essence"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:inferium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:inferium_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

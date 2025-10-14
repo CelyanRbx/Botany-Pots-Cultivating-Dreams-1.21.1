@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:tertium_essence"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:tertium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:tertium_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

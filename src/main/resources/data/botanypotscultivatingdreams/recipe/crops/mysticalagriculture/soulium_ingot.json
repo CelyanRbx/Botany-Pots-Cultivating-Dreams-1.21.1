@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:soulium_dust"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:soulium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:soulium_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:prudentium_essence"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:prudentium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:prudentium_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

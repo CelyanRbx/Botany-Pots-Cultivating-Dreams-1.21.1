@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:prosperity_shard"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:prosperity_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:prosperity_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

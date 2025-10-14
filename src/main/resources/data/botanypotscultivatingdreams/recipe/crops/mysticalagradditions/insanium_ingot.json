@@ -30,18 +30,6 @@
             "id": "mysticalagradditions:insanium_ingot"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagradditions:insanium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagradditions:insanium_essence"
-          },
-          "chance": 1.0
         }
       ]
     }

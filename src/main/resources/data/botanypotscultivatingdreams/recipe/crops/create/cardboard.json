@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "create:cardboard_block"
+            "id": "create:cardboard"
           },
           "chance": 1.0
         }

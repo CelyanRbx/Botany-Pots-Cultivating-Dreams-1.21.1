@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:supremium_essence"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:supremium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:supremium_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

@@ -30,18 +30,6 @@
             "id": "mysticalagriculture:imperium_essence"
           },
           "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:imperium_gemstone"
-          },
-          "chance": 1.0
-        },
-        {
-          "result": {
-            "id": "mysticalagriculture:imperium_ingot"
-          },
-          "chance": 1.0
         }
       ]
     }

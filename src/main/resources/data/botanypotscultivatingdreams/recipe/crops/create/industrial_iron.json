@@ -9,7 +9,7 @@
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "minecraft:iron_ingot"
+    "item": "createdeco:industrial_iron_ingot"
   },
   "soil": {
     "tag": "botanypotscultivatingdreams:soil/industrial_iron"
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "create:industrial_iron_block"
+            "id": "createdeco:industrial_iron_ingot"
           },
           "chance": 1.0
         }

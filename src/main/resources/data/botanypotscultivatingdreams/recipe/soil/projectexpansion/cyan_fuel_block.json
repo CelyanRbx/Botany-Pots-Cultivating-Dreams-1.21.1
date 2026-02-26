@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "projectexpansion:cyan_fuel_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "projectexpansion:cyan_fuel_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "projectexpansion:cyan_fuel_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

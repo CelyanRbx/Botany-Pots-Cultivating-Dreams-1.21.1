@@ -3,6 +3,10 @@
     {
       "id": "mekanism:block_charcoal",
       "required": false
+    },
+    {
+      "id": "betterend:charcoal_block",
+      "required": false
     }
   ]
 }

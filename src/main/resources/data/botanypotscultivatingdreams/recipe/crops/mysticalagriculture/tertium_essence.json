@@ -3,22 +3,22 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:prosperity_block"
+        "mysticalagriculture:tertium_block"
       ]
     }
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "mysticalagriculture:prosperity_shard"
+    "item": "mysticalagriculture:tertium_essence"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/prosperity"
+    "tag": "botanypotscultivatingdreams:soil/tertium"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:prosperity_block"
+      "block": "mysticalagriculture:tertium_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:prosperity_shard"
+            "id": "mysticalagriculture:tertium_essence"
           },
           "chance": 1.0
         }

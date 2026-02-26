@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:awakened_supremium_block"
+        "mysticalagriculture:awakened_supremium_ingot_block"
       ]
     }
   ],
@@ -12,13 +12,13 @@
     "item": "mysticalagriculture:awakened_supremium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/awakened_supremium"
+    "tag": "botanypotscultivatingdreams:soil/awakened_supremium_ingot"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:awakened_supremium_block"
+      "block": "mysticalagriculture:awakened_supremium_ingot_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:awakened_supremium_essence"
+            "id": "mysticalagriculture:awakened_supremium_ingot"
           },
           "chance": 1.0
         }

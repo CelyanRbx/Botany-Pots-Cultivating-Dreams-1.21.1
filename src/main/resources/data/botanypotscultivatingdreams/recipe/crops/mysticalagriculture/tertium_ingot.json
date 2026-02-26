@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:tertium_block"
+        "mysticalagriculture:tertium_ingot_block"
       ]
     }
   ],
@@ -12,13 +12,13 @@
     "item": "mysticalagriculture:tertium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/tertium"
+    "tag": "botanypotscultivatingdreams:soil/tertium_ingot"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:tertium_block"
+      "block": "mysticalagriculture:tertium_ingot_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:tertium_essence"
+            "id": "mysticalagriculture:tertium_ingot"
           },
           "chance": 1.0
         }

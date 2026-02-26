@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:soulium_block"
+        "mysticalagriculture:soulium_ingot_block"
       ]
     }
   ],
@@ -12,13 +12,13 @@
     "item": "mysticalagriculture:soulium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/soulium"
+    "tag": "botanypotscultivatingdreams:soil/soulium_ingot"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:soulium_block"
+      "block": "mysticalagriculture:soulium_ingot_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:soulium_dust"
+            "id": "mysticalagriculture:soulium_ingot"
           },
           "chance": 1.0
         }

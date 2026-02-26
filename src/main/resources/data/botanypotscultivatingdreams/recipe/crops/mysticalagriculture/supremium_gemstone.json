@@ -3,22 +3,22 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:prosperity_block"
+        "mysticalagriculture:supremium_gemstone_block"
       ]
     }
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "mysticalagriculture:prosperity_shard"
+    "item": "mysticalagriculture:supremium_gemstone"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/prosperity"
+    "tag": "botanypotscultivatingdreams:soil/supremium_gemstone"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:prosperity_block"
+      "block": "mysticalagriculture:supremium_gemstone_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:prosperity_shard"
+            "id": "mysticalagriculture:supremium_gemstone"
           },
           "chance": 1.0
         }

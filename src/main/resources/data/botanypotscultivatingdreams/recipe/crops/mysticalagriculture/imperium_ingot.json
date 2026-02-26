@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:imperium_block"
+        "mysticalagriculture:imperium_ingot_block"
       ]
     }
   ],
@@ -12,13 +12,13 @@
     "item": "mysticalagriculture:imperium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/imperium"
+    "tag": "botanypotscultivatingdreams:soil/imperium_ingot"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:imperium_block"
+      "block": "mysticalagriculture:imperium_ingot_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:imperium_essence"
+            "id": "mysticalagriculture:imperium_ingot"
           },
           "chance": 1.0
         }

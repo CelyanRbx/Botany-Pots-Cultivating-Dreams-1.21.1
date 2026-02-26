@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:prudentium_block"
+        "mysticalagriculture:prudentium_ingot_block"
       ]
     }
   ],
@@ -12,13 +12,13 @@
     "item": "mysticalagriculture:prudentium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/prudentium"
+    "tag": "botanypotscultivatingdreams:soil/prudentium_ingot"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:prudentium_block"
+      "block": "mysticalagriculture:prudentium_ingot_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:prudentium_essence"
+            "id": "mysticalagriculture:prudentium_ingot"
           },
           "chance": 1.0
         }

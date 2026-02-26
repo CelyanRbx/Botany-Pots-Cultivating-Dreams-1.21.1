@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:inferium_block"
+        "mysticalagriculture:inferium_ingot_block"
       ]
     }
   ],
@@ -12,13 +12,13 @@
     "item": "mysticalagriculture:inferium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/inferium"
+    "tag": "botanypotscultivatingdreams:soil/inferium_ingot"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:inferium_block"
+      "block": "mysticalagriculture:inferium_ingot_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:inferium_essence"
+            "id": "mysticalagriculture:inferium_ingot"
           },
           "chance": 1.0
         }

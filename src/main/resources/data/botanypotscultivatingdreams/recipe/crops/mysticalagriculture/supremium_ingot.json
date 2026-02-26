@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagriculture:supremium_block"
+        "mysticalagriculture:supremium_ingot_block"
       ]
     }
   ],
@@ -12,13 +12,13 @@
     "item": "mysticalagriculture:supremium_ingot"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/supremium"
+    "tag": "botanypotscultivatingdreams:soil/supremium_ingot"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagriculture:supremium_block"
+      "block": "mysticalagriculture:supremium_ingot_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagriculture:supremium_essence"
+            "id": "mysticalagriculture:supremium_ingot"
           },
           "chance": 1.0
         }

@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_alloy_subatomic"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "evolvedmekanism:alloy_subatomic"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/alloy_subatomic"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_alloy_subatomic"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "evolvedmekanism:alloy_subatomic"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

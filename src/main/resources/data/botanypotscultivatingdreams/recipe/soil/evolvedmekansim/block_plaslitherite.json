@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_plaslitherite"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "evolvedmekanism:block_plaslitherite"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_plaslitherite"
+    }
+  },
+  "growth_modifier": 0.0
+}

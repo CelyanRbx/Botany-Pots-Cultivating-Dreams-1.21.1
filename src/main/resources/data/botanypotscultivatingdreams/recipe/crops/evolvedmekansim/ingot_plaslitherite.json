@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_plaslitherite"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "evolvedmekanism:ingot_plaslitherite"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/plaslitherite"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_plaslitherite"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "evolvedmekanism:ingot_plaslitherite"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

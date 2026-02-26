@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_alloy_singular"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "evolvedmekanism:alloy_singular"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/alloy_singular"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_alloy_singular"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "evolvedmekanism:alloy_singular"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

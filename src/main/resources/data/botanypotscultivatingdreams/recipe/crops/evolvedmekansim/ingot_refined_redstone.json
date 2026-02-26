@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_refined_redstone"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "evolvedmekanism:ingot_refined_redstone"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/refined_redstone"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_refined_redstone"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "evolvedmekanism:ingot_refined_redstone"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

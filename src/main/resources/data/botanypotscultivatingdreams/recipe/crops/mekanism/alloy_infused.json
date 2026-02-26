@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_alloy_infused"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mekanism:alloy_infused"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/alloy_infused"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_alloy_infused"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mekanism:alloy_infused"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_refined_redstone"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "evolvedmekanism:block_refined_redstone"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_refined_redstone"
+    }
+  },
+  "growth_modifier": 0.0
+}

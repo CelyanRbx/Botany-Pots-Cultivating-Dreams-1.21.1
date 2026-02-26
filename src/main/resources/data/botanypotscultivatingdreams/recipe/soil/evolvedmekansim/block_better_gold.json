@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_better_gold"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "evolvedmekanism:block_better_gold"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_better_gold"
+    }
+  },
+  "growth_modifier": 0.0
+}

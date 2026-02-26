@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_better_gold"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "evolvedmekanism:ingot_better_gold"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/better_gold"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_better_gold"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "evolvedmekanism:ingot_better_gold"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

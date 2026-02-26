@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_alloy_reinforced"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mekanism:alloy_reinforced"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/alloy_reinforced"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_alloy_reinforced"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mekanism:alloy_reinforced"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

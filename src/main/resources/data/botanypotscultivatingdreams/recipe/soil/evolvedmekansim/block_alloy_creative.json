@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "evolvedmekanism:block_alloy_creative"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "evolvedmekanism:block_alloy_creative"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "evolvedmekanism:block_alloy_creative"
+    }
+  },
+  "growth_modifier": 0.0
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mysticalagradditions:insanium_gemstone_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagradditions:insanium_gemstone_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mysticalagradditions:insanium_gemstone_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

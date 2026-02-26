@@ -3,22 +3,22 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "mysticalagradditions:insanium_ingot_block"
+        "mysticalagradditions:insanium_block"
       ]
     }
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "mysticalagradditions:insanium_ingot"
+    "item": "mysticalagradditions:insanium_essence"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/insanium_ingot"
+    "tag": "botanypotscultivatingdreams:soil/insanium"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "mysticalagradditions:insanium_ingot_block"
+      "block": "mysticalagradditions:insanium_block"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mysticalagradditions:insanium_ingot"
+            "id": "mysticalagradditions:insanium_essence"
           },
           "chance": 1.0
         }

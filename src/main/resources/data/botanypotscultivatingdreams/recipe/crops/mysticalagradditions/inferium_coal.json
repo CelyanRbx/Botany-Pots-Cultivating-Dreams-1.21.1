@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mysticalagradditions:inferium_coal_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "mysticalagradditions:inferium_coal"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/inferium_coal"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mysticalagradditions:inferium_coal_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "mysticalagradditions:inferium_coal"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

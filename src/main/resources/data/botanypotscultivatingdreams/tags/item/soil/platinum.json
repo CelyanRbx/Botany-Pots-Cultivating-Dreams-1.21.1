@@ -15,6 +15,10 @@
     {
       "id": "modern_industrialization:platinum_block",
       "required": false
+    },
+    {
+      "id": "oritech:platinum_block",
+      "required": false
     }
   ]
 }

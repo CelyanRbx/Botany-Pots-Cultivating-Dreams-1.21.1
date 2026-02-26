@@ -11,6 +11,10 @@
     {
       "id": "modern_industrialization:silicon_block",
       "required": false
+    },
+    {
+      "id": "oritech:silicon_block",
+      "required": false
     }
   ]
 }

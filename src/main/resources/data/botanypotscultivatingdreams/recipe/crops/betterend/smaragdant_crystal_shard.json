@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "betterend:smaragdant_crystal"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "betterend:smaragdant_crystal_shard"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/smaragdant_shard"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "betterend:smaragdant_crystal"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "betterend:smaragdant_crystal_shard"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

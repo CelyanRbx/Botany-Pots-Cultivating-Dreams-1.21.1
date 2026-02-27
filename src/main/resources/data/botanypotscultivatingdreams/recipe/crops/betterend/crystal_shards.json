@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "betterend:aurora_crystal"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "betterend:crystal_shards"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/crystal_shards"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "betterend:aurora_crystal"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "betterend:crystal_shards"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

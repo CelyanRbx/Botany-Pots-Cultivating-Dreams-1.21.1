@@ -3,6 +3,10 @@
     {
       "id": "allthetweaks:ender_pearl_block",
       "required": false
+    },
+    {
+      "id": "betterend:ender_block",
+      "required": false
     }
   ]
 }

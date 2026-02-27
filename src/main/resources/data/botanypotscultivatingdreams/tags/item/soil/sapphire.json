@@ -15,6 +15,10 @@
     {
       "id": "silentgems:sapphire_block",
       "required": false
+    },
+    {
+      "id": "projectred_exploration:sapphire_block",
+      "required": false
     }
   ]
 }

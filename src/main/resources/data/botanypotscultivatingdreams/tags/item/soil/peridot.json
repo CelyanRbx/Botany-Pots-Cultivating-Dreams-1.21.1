@@ -7,6 +7,10 @@
     {
       "id": "silentgems:peridot_block",
       "required": false
+    },
+    {
+      "id": "projectred_exploration:peridot_block",
+      "required": false
     }
   ]
 }

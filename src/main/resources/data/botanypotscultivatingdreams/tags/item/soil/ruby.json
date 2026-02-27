@@ -19,6 +19,10 @@
     {
       "id": "silentgems:ruby_block",
       "required": false
+    },
+    {
+      "id": "projectred_exploration:ruby_block",
+      "required": false
     }
   ]
 }

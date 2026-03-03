@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "create:experience_block"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "create:experience_nugget"
+  },
+  "soil": {
+    "tag": "botanypotscultivatingdreams:soil/experience"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "create:experience_block"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "create:experience_nugget"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

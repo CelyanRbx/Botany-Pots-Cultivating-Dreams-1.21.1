@@ -9,7 +9,7 @@
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "mysticalagriculture:awakened_supremium_ingot"
+    "item": "mysticalagriculture:awakened_supremium_essence"
   },
   "soil": {
     "tag": "botanypotscultivatingdreams:soil/awakened_supremium"

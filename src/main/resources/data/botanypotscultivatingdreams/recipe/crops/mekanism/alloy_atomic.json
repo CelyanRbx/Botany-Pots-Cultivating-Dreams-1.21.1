@@ -3,22 +3,22 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "evolvedmekanism:block_alloy_ultimate"
+        "evolvedmekanism:block_alloy_atomic"
       ]
     }
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "mekanism:alloy_ultimate"
+    "item": "mekanism:alloy_atomic"
   },
   "soil": {
-    "tag": "botanypotscultivatingdreams:soil/alloy_ultimate"
+    "tag": "botanypotscultivatingdreams:soil/alloy_atomic"
   },
   "grow_time": 1200,
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "evolvedmekanism:block_alloy_ultimate"
+      "block": "evolvedmekanism:block_alloy_atomic"
     }
   },
   "drops": [
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "mekanism:alloy_ultimate"
+            "id": "mekanism:alloy_atomic"
           },
           "chance": 1.0
         }

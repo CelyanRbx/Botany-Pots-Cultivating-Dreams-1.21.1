@@ -3,18 +3,18 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "evolvedmekanism:block_alloy_ultimate"
+        "evolvedmekanism:block_alloy_atomic"
       ]
     }
   ],
   "type": "botanypots:soil",
   "input": {
-    "item": "evolvedmekanism:block_alloy_ultimate"
+    "item": "evolvedmekanism:block_alloy_atomic"
   },
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "evolvedmekanism:block_alloy_ultimate"
+      "block": "evolvedmekanism:block_alloy_atomic"
     }
   },
   "growth_modifier": 0.0

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotscultivatingdreams:plutonium_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botanypotscultivatingdreams:plutonium_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "botanypotscultivatingdreams:plutonium_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

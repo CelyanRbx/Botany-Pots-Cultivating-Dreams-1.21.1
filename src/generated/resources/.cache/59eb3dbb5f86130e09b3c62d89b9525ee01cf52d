@@ -1,2 +1,4 @@
-// 1.21.1	2025-08-19T19:26:34.2036056	Loot Tables
+// 1.21.1	2026-03-16T12:49:35.6080681	Loot Tables
 3c533f609be45061e2015bb1c0001b73ab71e9a9 data/botanypotscultivatingdreams/loot_table/blocks/harden_insulating_resin_block.json
+f4fbc88bf210f2b4317e48a7540cfaa0dd5cb313 data/botanypotscultivatingdreams/loot_table/blocks/plutonium_block.json
+d940009fb17f89e90be221916057676b3db692bd data/botanypotscultivatingdreams/loot_table/blocks/polonium_block.json

@@ -20,6 +20,8 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.botanypotscultivatingdreams.botanypots_cultivating_dreams"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.HARDEN_INSULATING_RESIN_BLOCK.get());
+                        output.accept(ModBlocks.POLONIUM_BLOCK.get());
+                        output.accept(ModBlocks.PLUTONIUM_BLOCK.get());
                     }).build());
 
 

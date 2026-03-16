@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "mekanism:pellet_plutonium"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "HHH",
+    "HHH"
+  ],
+  "result": {
+    "count": 1,
+    "id": "botanypotscultivatingdreams:plutonium_block"
+  }
+}

@@ -17,7 +17,8 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
     @Override
     protected void generate() {
         dropSelf(ModBlocks.HARDEN_INSULATING_RESIN_BLOCK.get());
-
+        dropSelf(ModBlocks.POLONIUM_BLOCK.get());
+        dropSelf(ModBlocks.PLUTONIUM_BLOCK.get());
     }
 
     @Override

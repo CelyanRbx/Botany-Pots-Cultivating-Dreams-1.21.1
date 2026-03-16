@@ -96,6 +96,17 @@ dependencies {
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:guideme-1173950:6812025"
     implementation "curse.maven:applied-energistics-2-223794:7027323"
+
+    // Mekanism
+    implementation "curse.maven:mekanism-268560:7132168"
+    // Mekanism Generators
+    implementation "curse.maven:mekanism-generators-268566:7132171"
+    // Mekanism Tools
+    implementation "curse.maven:mekanism-tools-268567:7132172"
+    // AE2
+    implementation "curse.maven:applied-energistics-2-223794:7027323"
+    // Guide Me
+    implementation "curse.maven:guideme-1173950:7127444"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {

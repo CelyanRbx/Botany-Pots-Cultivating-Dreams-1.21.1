@@ -19,6 +19,8 @@ public class ModBlockTagProvider extends BlockTagsProvider {
     @Override
     protected void addTags(HolderLookup.Provider provider) {
         tag(BlockTags.MINEABLE_WITH_PICKAXE)
-                .add(ModBlocks.HARDEN_INSULATING_RESIN_BLOCK.get());
+                .add(ModBlocks.HARDEN_INSULATING_RESIN_BLOCK.get())
+                .add(ModBlocks.POLONIUM_BLOCK.get())
+                .add(ModBlocks.PLUTONIUM_BLOCK.get());
     }
 }
